@@ -9,8 +9,12 @@
 - Time-conversion:
 [Question link](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)
 
-- Between-two-set:
+- Between-two-sets:
 [Question link](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)
+
+- The-birthday-bar:
+[Question link](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)
+
 
 
 ### To check the answers
