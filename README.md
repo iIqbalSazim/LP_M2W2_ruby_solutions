@@ -15,6 +15,10 @@
 - The-birthday-bar:
 [Question link](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)
 
+- Day-of-the-programmer:
+[Question link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)
+
+
 
 
 ### To check the answers
