@@ -21,7 +21,8 @@
 - Climbing-the-leaderboard:
 [Question link](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
 
-
+- Extra-long-factorials:
+[Question link](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)
 
 ### To check the answers
 - Clone the repo `git clone git@github.com:iIqbalSazim/LP_M2W2_ruby_solutions.git`.
