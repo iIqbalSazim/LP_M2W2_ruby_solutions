@@ -30,4 +30,6 @@
 - For example, to run grading.rb type: `ruby grading.rb`.
 - You can also test other inputs by changing the input values in each file.
 
+### Note:
+- Practice folder contain solutions to other problems I practiced.
 
