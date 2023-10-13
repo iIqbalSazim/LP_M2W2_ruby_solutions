@@ -18,6 +18,8 @@
 - Day-of-the-programmer:
 [Question link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)
 
+- Climbing-the-leaderboard:
+[Question link](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
 
 
 
